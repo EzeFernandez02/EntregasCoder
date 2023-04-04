@@ -1,0 +1,12 @@
+[
+    {"title":"Boxing gloves","price":4500,"description":"Venum 8oz gloves","thumbnail":"No image yet","code":"BGV102","stock":50,"id":1},
+    {"title":"MMA gloves","price":3500,"description":"Venum 4oz gloves","thumbnail":"No image yet","code":"MMGV152","stock":50,"id":2},
+    {"title":"Venum MT Shorts","price":3500,"description":"Venum Muay Thai Shorts","thumbnail":"No image yet","code":"MTVS562","stock":50,"id":3},
+    {"title":"Venum Boxing Shorts","price":5500,"description":"Venum Boxing Shorts","thumbnail":"No image yet","code":"VBSS4562","stock":50,"id":4},
+    {"title":"Everlast Mouth Piece","price":1500,"description":"Bucal Everlast para Artes Marciales","thumbnail":"No image yet","code":"BE462","stock":70,"id":5},
+    {"title":"Nike Total 90","price":2000,"description":"Pelota de Futbol Nike","thumbnail":"No image yet","code":"NT6323","stock":20,"id":6},
+    {"title":"Spalding TF-1000","price":2000,"description":"Pelota de Basketball Spalding","thumbnail":"No image yet","code":"STF9562","stock":20,"id":7},
+    {"title":"Wilson NCAA","price":4000,"description":"Pelota de Basketball Wilson","thumbnail":"No image yet","code":"STF9562","stock":20,"id":8},
+    {"title":"Adidas Predator 11","price":4000,"description":"Championes de Futbol Adidas","thumbnail":"No image yet","code":"ADP98562","stock":40,"id":9},
+    {"title":"Nike Magista 11","price":7000,"description":"Championes de Futbol Nike","thumbnail":"No image yet","code":"ADP98562","stock":40,"id":10}
+]
